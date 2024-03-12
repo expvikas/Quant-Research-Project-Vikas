@@ -4,10 +4,13 @@
 This repository contains the code and documentation for the pairs trading strategy developed as part of the TrueBeacon intern assignment. The project aims to build and optimize a medium-frequency trading strategy based on the volatility spread between Nifty and Bank Nifty indices.
 
 ## Project Structure
-**'data.parquet'**: The dataset containing minute-level implied volatilities (IVs) of Bank Nifty and Nifty, along with Time To Expiry (TTE) for the series.<br>
-**'trading_strategy.py'**: The main Python file containing the implementation of the pairs trading strategy. <br>
-**'trading_strategy.xlsx'**: The Excel file inside the output of the result. <br>
-**'requirements.txt'**: List of required Python packages.
+**data.parquet**: The dataset containing minute-level implied volatilities (IVs) of Bank Nifty and Nifty, along with Time To Expiry (TTE) for the series.<br>
+**trading_strategy.py**: The main Python file containing the implementation of the pairs trading strategy. <br>
+**trading_strategy.xlsx**: The Excel file inside the output of the result. <br>
+**requirements.txt**: List of required Python packages.
+**Full_Data.png**: This image is the output of full-data trading strategies.
+**One_day_data.png**: This image outputs a one-day '2021-10-11' trading strategy.
+
 
 ## Assumptions
 1. The dataset may contain missing values handled by Pandas 'isnan' function.
