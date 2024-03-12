@@ -7,8 +7,8 @@ This repository contains the code and documentation for the pairs trading strate
 **data.parquet**: The dataset containing minute-level implied volatilities (IVs) of Bank Nifty and Nifty, along with Time To Expiry (TTE) for the series.<br>
 **trading_strategy.py**: The main Python file containing the implementation of the pairs trading strategy. <br>
 **trading_strategy.xlsx**: The Excel file inside the output of the result. <br>
-**requirements.txt**: List of required Python packages.
-**Full_Data.png**: This image is the output of full-data trading strategies.
+**requirements.txt**: List of required Python packages. <br>
+**Full_Data.png**: This image is the output of full-data trading strategies.<br>
 **One_day_data.png**: This image outputs a one-day '2021-10-11' trading strategy.
 
 
