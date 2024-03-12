@@ -1,4 +1,4 @@
-# Truebeacon-Quant Research Project
+# True Beacon-Quant Research Project
 
 ## Overview
 This repository contains the code and documentation for the pairs trading strategy developed as part of the TrueBeacon intern assignment. The project aims to build and optimize a medium-frequency trading strategy based on the volatility spread between Nifty and Bank Nifty indices.
